@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+This is my personal repository.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
+</div>
+
 <!--
 **AzureHex/AzureHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
