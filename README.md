@@ -1,4 +1,4 @@
-<span style="font-size: 36px; font-weight: bold;">👋 Hello World!</span>
+**👋 Hello World!**
 
 ```sh
 fn main() {
