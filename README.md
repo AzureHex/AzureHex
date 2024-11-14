@@ -1,4 +1,4 @@
-## 👋 Hello World!
+<h1 style="font-size: 36px;">👋 <strong>Hello World!</strong></h1>
 
 ```sh
 fn main() {
