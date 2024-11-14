@@ -1,4 +1,5 @@
 ### **👋 Hello World!**
+<h1 align="center">Hello <img height="35px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"/>, World!</h1>
 
 ```sh
 fn main() {
