@@ -1,4 +1,4 @@
-<h1 style="font-size: 36px;">👋 <strong>Hello World!</strong></h1>
+<span style="font-size: 36px; font-weight: bold;">👋 Hello World!</span>
 
 ```sh
 fn main() {
