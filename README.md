@@ -3,8 +3,7 @@
 ```sh
 fn main() {
     let name = 'AzureHex';
-
-    let location = 'Terra, Sol System';
+    let location = 'Terra, Sol System'
 }
 
 ```
