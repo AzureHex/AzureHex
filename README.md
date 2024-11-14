@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+```sh
+fn main() {
+    let name = 'AzureHex';
+
+    let location = 'Terra, Sol System';
+}
+
+```
+
 ![GitHub Snake](https://github.com/AzureHex/AzureHex/raw/main/assets/github-snake.svg)
 
 <p align="center">
