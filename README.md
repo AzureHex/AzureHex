@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hello World!
 
 ```sh
 fn main() {
