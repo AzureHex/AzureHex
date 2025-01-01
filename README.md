@@ -2,13 +2,13 @@
 
 ```sh
 fn main() {
-    let name = 'AzureHex';
+    let name = 'AzureHound';
     let location = 'Terra, Sol System'
 }
 
 ```
 
-![GitHub Snake](https://github.com/AzureHex/AzureHex/raw/main/assets/github-snake.svg)
+![GitHub Snake](https://github.com/AzureHex/AzureHound/raw/main/assets/github-snake.svg)
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
